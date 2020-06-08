@@ -6,7 +6,11 @@ body {
 	font-size: 24px;
 	font-family: 'Roboto Condensed', sans-seri;
 }
-h2 p:last-of-type {
-	font-size: 12px;
+P {
+	font-size: 18px;
+}
+p:last-of-type {
+	font-size: 14px; 
 	font-family: 'Roboto Condensed', sans-seri;
+	font-style: italic;
 }
