@@ -1,0 +1,10 @@
+to run autoprefixer-cli use:
+autoprefixer-cli -o style.prefixed.css style.css
+
+to run html-validate use:
+html-validate index.html
+
+//uwagi do browser-sync:
+1. modyfikacja style.css -brak zmian w przegladarce;
+2. modyfikacja index.html - dziala auto;
+3. rownolegle odswiezanie reczne -dziala;

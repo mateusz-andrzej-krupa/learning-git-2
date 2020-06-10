@@ -1,0 +1,9 @@
+to run autoprefixer-cli use comand:
+autoprefixer-cli -o main.prefixed.css main.css
+
+to html-validate use comand:
+Create .htmlvalidate.json:
+
+// uwagi do browser-sync:
+1. zmiany w plik css nie powoduja zadnej zmiany wygladu w przegladarce;
+2. zaminy w index.html dzialaja automatycznie;
